@@ -1,4 +1,4 @@
-package ru.geekbrains;
+package ru.geekbrains.homeworkone;
 
 public class WorkHourCalculate {
     public static int workHourCalculate(int numOfDay){

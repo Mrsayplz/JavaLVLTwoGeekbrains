@@ -1,4 +1,4 @@
-package ru.geekbrains;
+package ru.geekbrains.homeworkone;
 
 public enum DayOfWeek {
     Monday(1),

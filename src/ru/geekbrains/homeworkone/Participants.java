@@ -1,4 +1,4 @@
-package ru.geekbrains;
+package ru.geekbrains.homeworkone;
 
 public interface Participants {
     void run();

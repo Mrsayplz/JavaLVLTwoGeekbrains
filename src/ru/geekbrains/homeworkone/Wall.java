@@ -1,4 +1,4 @@
-package ru.geekbrains;
+package ru.geekbrains.homeworkone;
 
 public class Wall {
     private static int overcomingCondition = 2;
